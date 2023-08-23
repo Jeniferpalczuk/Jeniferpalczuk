@@ -1,4 +1,4 @@
-## Olá! eu sou a Jenifer Rodrigues.
+## Olá! eu sou a Desenvolvedora Jenifer Rodrigues.
 <div align="center">
   <a href="https://github.com/Jeniferpalczuk">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jeniferpalczuk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"style="max-width: 100%;"/>
@@ -22,5 +22,3 @@
   <a href="https://www.linkedin.com/in/jenifer-rodrigues-9866291a2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" target="_blank"></a>
     <a href="https://www.linkedin.com/in/jenifer-rodrigues-9866291a2/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" target="_blank"></a>
 
-  ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- <div>
